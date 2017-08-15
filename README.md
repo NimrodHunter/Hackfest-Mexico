@@ -1,6 +1,7 @@
 # Hackfest Blockchain México (ConsenSys + Microsoft)
 
 [DIAS]
+
 30 y 31 de agosto del 2017
 
 [HORARIOS]
