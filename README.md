@@ -18,8 +18,13 @@ Av. Vasco de Quiroga 3200, Microsoft México, Ciudad de Santa Fe, México DF
 
 Las herramientas, librerías y framweworks que se usarán en la hackatón son los siguientes: `nodejs`, `testrpc` y `truffle`
 
-## Getting started
+## Opciones
 
+1) Instalar en mi equipo.
+
+2) Maquina virtual
+
+## 1)
 1) Instalar [nodejs](https://nodejs.org/en/download/). También se pueden usar los [gestores de paquetes](https://nodejs.org/en/download/package-manager/) de cada OS para instalar este framework.
 * **Nota:** Si se tiene una versión antigua de nodejs, es posible que los paquetes npm no funcionen (TestRPC requiere node 6.9.1, por ejemplo)
 
