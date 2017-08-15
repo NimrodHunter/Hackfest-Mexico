@@ -20,11 +20,21 @@ Las herramientas, librerías y framweworks que se usarán en la hackatón son lo
 
 ## Opciones
 
-1) Instalar en mi equipo.
+1) Maquina virtual.
 
-2) Maquina virtual
+2) Instalar en mi equipo.
 
 ## 1)
+
+1) Descargar [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+
+2) Descargar Imagen de Ubuntu con herramientas instaladas: https://drive.google.com/open?id=0B7FCIdXDHW0cT2xvU1BtOEdvQXc
+
+3) Abrir VirtualBox he importar el archivo hackfest.ova. La password del usuario de ubuntu es: hackfest.
+
+
+## 2)
+
 1) Instalar [nodejs](https://nodejs.org/en/download/). También se pueden usar los [gestores de paquetes](https://nodejs.org/en/download/package-manager/) de cada OS para instalar este framework.
 * **Nota:** Si se tiene una versión antigua de nodejs, es posible que los paquetes npm no funcionen (TestRPC requiere node 6.9.1, por ejemplo)
 
@@ -43,3 +53,4 @@ npm install -g truffle
 
 
 Con estas herramientas instaladas, ya estamos en condiciones de desarrollar y probar nuestras Đapps en nuestro entorno de desarrollo local.
+
