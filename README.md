@@ -1,6 +1,15 @@
-# Primera Hackaton Blockchain Chile
+# Hackfest Blockchain México (ConsenSys + Microsoft)
 
-Bienvenido a la primera hackaton de Blockchain Chile!
+[DIAS]
+30 y 31 de agosto del 2017
+
+[HORARIOS]
+Miércoles: 8:30 am – 6:00 pm
+Jueves: 8:30 am – 5:00 pm
+
+[LUGAR]
+Microsoft México
+Av. Vasco de Quiroga 3200, Microsoft México, Ciudad de Santa Fe, México DF
 
 # Installación de herramientas
 
